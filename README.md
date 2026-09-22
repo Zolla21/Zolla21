@@ -111,7 +111,7 @@ Areas of interest include:
 
 ## 📊 Data Analytics
 
-My AI and Machine Learning interests focus on applying intelligent techniques to practical problems.
+My interests in AI and machine learning focus on applying intelligent techniques to practical problems.
 Areas of interest include:
 I work with data-driven approaches for analysis, prediction, visualization, and decision support.
 
@@ -202,12 +202,6 @@ Curriculum Development
 • Final Year Industrial Project Advisor
 • Course Module Development
 
-#Developed Course Modules
-
-• Design and Analysis of Algorithms
-• Fundamentals of Software Engineering
-• Object-Oriented Software Engineering
-
 ## 🛠️ Technology Stack
 
 ### Programming and Development
@@ -258,6 +252,50 @@ GPA: 3.76 / 4.00
 Graduation project: Web-Based Drug Store Management System for Ethiopian Red Cross Pharmacy Using PHP and JavaScript.
 Project result: A+
 
+## BSc in Computer Science 
+Projects and Community Service
+Machine Learning-Based Student Academic Performance Prediction System Lead Developer, 2023
+
+Developed a machine learning-based system using academic data to identify performance factors and support data-driven academic advising and early intervention.
+
+Software Digital Literacy and ICT Integration Training Project Coordinator, 2024
+
+Designed and coordinated a university-led digital literacy training program supporting teachers in developing digital competencies and integrating ICT into teaching and learning.
+
+Integrated Lecture Lab Framework Lead Developer, 2025
+
+Worked on a framework focused on enhancing practical programming skills through technology and Machine Learning approaches.
+
+Community Digital Literacy Training
+
+Community Service Trainer
+
+Provided practical training on fundamental computer skills to staff of the Ambo City Administration and Housing Office.
+
+🏆 Awards and Professional Development
+Best Algorithm Design Award
+
+Awarded first place during the second Annual Programming Week at Dire Dawa University for designing an algorithm for a Bank Queuing System.
+
+Udacity Professional Training
+
+• Artificial Intelligence Fundamentals
+• Programming Fundamentals
+• Data Analysis Fundamentals
+• Android Developer Fundamentals
+
+Other Professional Development
+
+• E Learning and ICT Integration in Higher Education
+• Teaching Online with Open edX
+• Open edX Studio Development
+• Project Planning, Analysis, and Monitoring
+• Higher Education Pedagogical Training
+• Peace Corps USA Ethiopia Virtual Service English Program
+
+🔬 R
+
+
 ## 🎯 Professional Interests
 • Full Stack Software Development
 • Software Business Analysis
@@ -268,6 +306,7 @@ Project result: A+
 • Information Systems
 • Software Project Management
 • Technology Education and Research
+
 
 ## 🔭 Current Focus
 
