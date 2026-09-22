@@ -2,291 +2,216 @@
 
 ### Full Stack Developer | Software Business Analyst | AI Engineer | Data Analyst | University Lecturer
 
-I am a technology professional focused on building modern software systems, analyzing business requirements, developing data driven solutions, and applying Artificial Intelligence to practical problems.
+I am a Computer Science professional with experience in software development, business analysis, artificial intelligence, data analysis, teaching, and research.
 
-My professional interests bring together **Software Engineering, Business Analysis, Artificial Intelligence, Data Analytics, Teaching, and Research**.
-
----
+I enjoy transforming real world problems into practical digital solutions through software engineering, data driven analysis, and intelligent technologies.
 
 ## 🚀 What I Do
 
-### 💻 Full Stack Development
+• Full Stack Web Development
+• Software Requirements Analysis
+• Software Requirements Specification
+• Business Process Analysis
+• Artificial Intelligence and Machine Learning
+• Data Analysis and Visualization
+• Database Design and Development
+• Academic Teaching and Research
+• Digital Transformation Solutions
 
-Designing and developing modern web applications, digital platforms, dashboards, and database driven systems.
+## ⭐ Featured Project
 
-### 📋 Software Business Analysis
+### Addis Ababa City Administration Digital Platform
 
-Analyzing business needs, gathering requirements, documenting software requirements, analyzing processes, and translating business problems into practical software solutions.
+A modern full stack web platform designed to support digital public services, administrative functionality, citizen engagement, project information, reporting, and organizational management.
 
-### 🤖 Artificial Intelligence
-
-Working with Artificial Intelligence, Machine Learning, predictive analytics, intelligent systems, and data driven applications.
-
-### 📊 Data Analytics
-
-Preparing, analyzing, interpreting, and visualizing data to support meaningful decisions.
-
-### 🎓 Teaching and Research
-
-Teaching Computer Science, Software Engineering, Artificial Intelligence, Machine Learning, and supervising practical software development projects.
-
----
-
-# ⭐ Featured Project
-
-## 🏛️ Addis Ababa City Administration Digital Platform
-
-A modern full stack digital government platform developed to support public information, citizen services, administrative management, project management, reporting, and digital communication.
-
-### ✨ Key Features
+### Key Features
 
 • Modern public administration website
-
-• Citizen services and information
-
-• User authentication
-
-• Administrative dashboard
-
-• User management
-
-• Project management
-
-• Reporting
-
-• News and information management
-
-• Contact and citizen support
-
 • Responsive user interface
+• Authentication and login
+• Administrative dashboard
+• Project management interface
+• Reports and data presentation
+• Contact and citizen support functionality
+• User management
+• System settings
+• Structured navigation and service sections
+• Modern responsive design
 
-• PostgreSQL database integration
+### Technology Stack
 
-### 🛠️ Technology Stack
+• Next.js
+• React
+• TypeScript
+• Tailwind CSS
+• Node.js
+• PostgreSQL
+• Prisma
+• REST API concepts
+• Git and GitHub
 
-**Frontend**
+## 🖥️ Project Showcase
 
-Next.js • React • TypeScript • Tailwind CSS
+### Addis Ababa City Administration Home Page
 
-**Application**
+<p align="center">
+  <img src="./home.png" width="850" alt="Addis Ababa City Administration Home Page">
+</p>
 
-Next.js Full Stack • Prisma
+### Authentication and Administration
 
-**Database**
+<p align="center">
+  <img src="./login.png" width="410" alt="Login Page">
+  <img src="./dashboard.png" width="410" alt="Administrative Dashboard">
+</p>
 
-PostgreSQL
+### Reports and Project Management
 
-**Development**
+<p align="center">
+  <img src="./reports.png" width="410" alt="Reports">
+  <img src="./project.png" width="410" alt="Projects">
+</p>
 
-Git • GitHub • VS Code
+### Citizen Contact Page
 
-### 🔗 Project Repository
+<p align="center">
+  <img src="./contact.png" width="850" alt="Contact Page">
+</p>
 
-[View Addis Ababa City Administration Project](../Addis_Ababa_City_Administration)
+## 💻 Software Development
 
----
+I develop practical web based systems with a focus on usability, maintainability, responsive design, database integration, and real world organizational requirements.
 
-# 🖥️ Project Showcase
+My development interests include:
 
-### 🏠 Public Website
+• Full stack web applications
+• Administrative information systems
+• Business process automation
+• Database driven applications
+• Government and institutional digital platforms
+• API based applications
+• Responsive web interfaces
 
-The project includes a modern public facing website designed to provide citizens with information and digital services.
+## 🤖 AI and Data Science
 
-### 🔐 Secure Login
+My interests in Artificial Intelligence and Data Science include:
 
-Authentication provides controlled access to administrative functionality.
+• Machine Learning
+• Predictive Analytics
+• Data Analysis
+• Data Visualization
+• Educational Data Mining
+• AI based decision support
+• Intelligent information systems
 
-### 📊 Administration Dashboard
+## 📊 Software Business Analysis
 
-The dashboard provides an organized interface for managing administrative activities.
+I am interested in connecting business needs with practical technology solutions.
 
-### 📈 Reports
+My business analysis interests include:
 
-The reporting area supports structured access to system information and administrative reports.
+• Requirements gathering
+• Requirements analysis
+• Software Requirements Specification
+• Business process modeling
+• Process analysis
+• Stakeholder analysis
+• Functional and non functional requirements
+• System analysis
+• Use case development
+• Solution evaluation
 
-### 📁 Project Management
+## 🎓 Teaching and Research
 
-The platform provides functionality for managing and presenting city administration projects.
+As a university lecturer, I am interested in combining academic knowledge with practical technology development.
 
-### 📞 Citizen Communication
+My teaching and research interests include:
 
-The contact area provides a channel for citizen communication and support.
+• Computer Science
+• Software Engineering
+• Artificial Intelligence
+• Machine Learning
+• Data Science
+• Web Development
+• Database Systems
+• Information Systems
+• Software Project Management
 
-> Project screenshots are available in the Addis Ababa City Administration repository.
+## 🛠️ Technology Stack
 
----
-
-# 💻 Technology Stack
-
-### Programming Languages
+### Programming and Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### Web Development
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
-### Database and ORM
+### Database and Backend
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
 
-### Development Tools
+### Data and AI
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
----
-
-# 🤖 AI and Data Science
-
-My AI and Data Science interests include:
-
-• Artificial Intelligence
-
-• Machine Learning
-
-• Predictive Analytics
-
-• Data Analysis
-
-• Data Visualization
-
-• Python based Data Science
-
-• Student Performance Prediction
-
-• Intelligent Decision Support Systems
-
----
-
-# 📋 Software Business Analysis
-
-I focus on connecting **business needs, software requirements, and practical technology solutions**.
-
-### Core Areas
-
-• Requirements Engineering
-
-• Software Requirements Analysis
-
-• Software Requirements Specification
-
-• Business Process Analysis
-
-• Functional Requirements
-
-• Stakeholder Requirements
-
-• System Analysis and Design
-
-• Solution Design
-
-• Software Documentation
-
-• Software Project Analysis
-
----
-
-# 🎓 Teaching and Research
-
-My academic and professional interests include:
-
-• Computer Science
-
-• Software Engineering
-
-• Artificial Intelligence
-
-• Machine Learning
-
-• Data Science
-
-• Web Application Development
-
-• Software Project Supervision
-
-• Technology Training
-
-• Research and Innovation
-
----
-
-# 🎯 Professional Interests
-
-I am interested in professional opportunities involving:
-
-**Full Stack Development**
-
-**Software Business Analysis**
-
-**Artificial Intelligence**
-
-**Data Analytics**
-
-**Software Engineering**
-
-**Digital Transformation**
-
-**Technology Education**
-
-**Research and Innovation**
-
----
-
-# 🎓 Education
+## 📚 Education
 
 ### MSc in Software Engineering
 
-Advanced Software Engineering, Software Development, System Analysis, and related computing disciplines.
+Master of Science in Software Engineering
 
 ### BSc in Computer Science
 
-Computer Science, Programming, Algorithms, Databases, Software Development, and Information Technology.
+Bachelor of Science in Computer Science
 
----
+## 🎯 Professional Interests
 
-# 📌 Current Focus
+• Full Stack Software Development
+• Software Business Analysis
+• Artificial Intelligence
+• Data Science
+• Machine Learning
+• Digital Transformation
+• Information Systems
+• Software Project Management
+• Technology Education and Research
 
-I am currently focused on strengthening my capabilities in:
+## 🔭 Current Focus
 
-**Full Stack Development**
+Currently focusing on building practical software systems that combine:
 
-**Business Analysis**
+**Business Requirements + Software Engineering + Data + Artificial Intelligence**
 
-**Artificial Intelligence**
+I am particularly interested in developing technology solutions that improve organizational processes, information management, decision making, and digital service delivery.
 
-**Data Analytics**
+## 📂 Project Repository
 
-**Modern Software Architecture**
+You can explore the complete Addis Ababa City Administration project through my GitHub repositories.
 
-**Digital Government Solutions**
+## 🤝 Let's Connect
 
----
+I am open to opportunities involving:
 
-# 🤝 Let's Connect
+• Software Development
+• Business Analysis
+• Data Analysis
+• Artificial Intelligence
+• Research Collaboration
+• Technology Projects
+• Academic Collaboration
 
-I am open to professional opportunities, software development projects, business analysis opportunities, research collaboration, technology training, and meaningful technical discussions.
+Thank you for visiting my GitHub profile.
 
-📧 **Email:** Available through my GitHub profile
-
-💼 **LinkedIn:** Available through my GitHub profile
-
-🔬 **ORCID:** Available through my GitHub profile
-
-📚 **Google Scholar:** Available through my GitHub profile
-
-💻 **GitHub:** Zolla21
-
----
-
-## 💡 Building technology. Analyzing problems. Creating practical solutions.
-
-### Teaching • Research • Development • Innovation
+**Let's build meaningful technology solutions together. 🚀**
