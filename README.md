@@ -84,7 +84,6 @@ A modern full stack web platform designed to support digital public services, ad
 I develop practical web based systems with a focus on usability, maintainability, responsive design, database integration, and real world organizational requirements.
 
 My development interests include:
-
 • Full stack web applications
 • Administrative information systems
 • Business process automation
@@ -93,22 +92,56 @@ My development interests include:
 • API based applications
 • Responsive web interfaces
 
-## 🤖 AI and Data Science
+## 🤖 Artificial Intelligence and Machine Learning
 
-My interests in Artificial Intelligence and Data Science include:
+My interests in AI and machine learning focus on applying intelligent techniques to practical problems.
+Areas of interest include:
 
 • Machine Learning
+• Deep Learning
 • Predictive Analytics
-• Data Analysis
-• Data Visualization
 • Educational Data Mining
-• AI based decision support
-• Intelligent information systems
+• AI for Education
+• AI for Public Service Delivery
+• Intelligent Systems
+• Data Governance
+• Algorithm Optimization
+• Software Defect Prediction
+• Network Optimization
+
+## 📊 Data Analytics
+
+My AI and Machine Learning interests focus on applying intelligent techniques to practical problems.
+Areas of interest include:
+I work with data-driven approaches for analysis, prediction, visualization, and decision support.
+
+Areas
+
+• Data preprocessing
+• Exploratory data analysis
+• Predictive analytics
+• Data visualization
+• Educational data analysis
+• Machine learning-based prediction
+• Statistical analysis
+• Decision support systems
+
+Technologies
+
+• Python
+• Pandas
+• NumPy
+• Matplotlib
+• Seaborn
+• Scikit-learn
+• TensorFlow
+• PyTorch
+• XGBoost
+
 
 ## 📊 Software Business Analysis
 
 I am interested in connecting business needs with practical technology solutions.
-
 My business analysis interests include:
 
 • Requirements gathering
@@ -117,10 +150,11 @@ My business analysis interests include:
 • Business process modeling
 • Process analysis
 • Stakeholder analysis
-• Functional and non functional requirements
+• Functional and non-functional requirements
 • System analysis
 • Use case development
 • Solution evaluation
+My development and academic experience allow me to understand both business requirements and technical implementation.
 
 ## 🎓 Teaching and Research
 
@@ -167,18 +201,28 @@ My teaching and research interests include:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
+
 ## 📚 Education
+### MSc in Project Management
+Florida University of Southeast, USA
+2025 to 2026
+GPA: 3.9 / 4.00
+Currently ongoing, expected completion in 2026.
 
 ### MSc in Software Engineering
-
-Master of Science in Software Engineering
+Bahir Dar University, Bahir Dar Institute of Technology
+2019 to 2020
+GPA: 3.79 / 4.00
+Thesis: Developing a Class Imbalance Software Defect Prediction Model Using SVM and Machine Learning Algorithms
 
 ### BSc in Computer Science
-
 Bachelor of Science in Computer Science
+2012 to 2016
+GPA: 3.76 / 4.00
+Graduation project: Web-Based Drug Store Management System for Ethiopian Red Cross Pharmacy Using PHP and JavaScript.
+Project result: A+
 
 ## 🎯 Professional Interests
-
 • Full Stack Software Development
 • Software Business Analysis
 • Artificial Intelligence
