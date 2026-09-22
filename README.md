@@ -252,8 +252,8 @@ GPA: 3.76 / 4.00
 Graduation project: Web-Based Drug Store Management System for Ethiopian Red Cross Pharmacy Using PHP and JavaScript.
 Project result: A+
 
-## BSc in Computer Science 
-Projects and Community Service
+## 🚀 Community Service
+
 Machine Learning-Based Student Academic Performance Prediction System Lead Developer, 2023
 
 Developed a machine learning-based system using academic data to identify performance factors and support data-driven academic advising and early intervention.
@@ -265,6 +265,10 @@ Designed and coordinated a university-led digital literacy training program supp
 Integrated Lecture Lab Framework Lead Developer, 2025
 
 Worked on a framework focused on enhancing practical programming skills through technology and Machine Learning approaches.
+
+
+## BSc in Computer Science 
+
 
 Community Digital Literacy Training
 
