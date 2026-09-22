@@ -2,9 +2,10 @@
 
 ### Full Stack Developer | Software Business Analyst | AI Engineer | Data Analyst | University Lecturer
 
-I am a Computer Science professional with experience in software development, business analysis, artificial intelligence, data analysis, teaching, and research.
+I am a technology professional focused on building modern software systems, analyzing business requirements, developing data-driven solutions, and applying Artificial Intelligence to practical problems.
 
-I enjoy transforming real world problems into practical digital solutions through software engineering, data driven analysis, and intelligent technologies.
+My professional interests bring together Software Engineering, Business Analysis, Artificial Intelligence, Data Analytics, Teaching, and Research. I enjoy transforming real-world challenges into practical digital solutions that improve processes, support informed decision-making, and create meaningful impact.
+
 
 ## 🚀 What I Do
 
