@@ -267,10 +267,7 @@ Integrated Lecture Lab Framework Lead Developer, 2025
 Worked on a framework focused on enhancing practical programming skills through technology and Machine Learning approaches.
 
 
-## BSc in Computer Science 
-
-
-Community Digital Literacy Training
+## Digital Literacy Training  
 
 Community Service Trainer
 
@@ -286,9 +283,9 @@ Udacity Professional Training
 • Artificial Intelligence Fundamentals
 • Programming Fundamentals
 • Data Analysis Fundamentals
-• Android Developer Fundamentals
+• Android Developer Fundamental
 
-Other Professional Development
+## Professinal Development Training  
 
 • E Learning and ICT Integration in Higher Education
 • Teaching Online with Open edX
@@ -296,8 +293,6 @@ Other Professional Development
 • Project Planning, Analysis, and Monitoring
 • Higher Education Pedagogical Training
 • Peace Corps USA Ethiopia Virtual Service English Program
-
-🔬 R
 
 
 ## 🎯 Professional Interests
