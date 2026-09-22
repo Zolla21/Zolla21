@@ -156,21 +156,57 @@ My business analysis interests include:
 • Solution evaluation
 My development and academic experience allow me to understand both business requirements and technical implementation.
 
-## 🎓 Teaching and Research
+## 🎓Research and Publications
 
-As a university lecturer, I am interested in combining academic knowledge with practical technology development.
+##Optimization of LEACH Protocol in Wireless Sensor Network Using Machine Learning
 
-My teaching and research interests include:
+Zelalem Fissiha Demssie and colleagues, 2022.
 
-• Computer Science
-• Software Engineering
-• Artificial Intelligence
+Published in Computational Intelligence and Neuroscience.
+
+Research focus:
+
+• Wireless Sensor Networks
 • Machine Learning
-• Data Science
-• Web Development
-• Database Systems
-• Information Systems
-• Software Project Management
+• Network Optimization
+• Intelligent Systems
+
+Software Defect Prediction
+
+Research work focused on developing a software defect prediction model using filter-based feature selection and Support Vector Machine algorithms for highly class-imbalanced software datasets.
+
+Research areas include:
+
+• Software Quality
+• Machine Learning
+• Support Vector Machines
+• Feature Selection
+• Class Imbalance
+• Predictive Modeling
+
+
+## 📚 Teaching and Academic Contributions
+
+#My academic work combines teaching, research, curriculum development, student supervision, and practical technology development.
+
+Curriculum Development
+
+• Information Systems Curriculum Development Team Leader at Ethiopian Public Service University
+• Software Engineering and Intelligent Systems Curriculum Development Leader
+• Computer Science Curriculum Review Team Leader at Ambo University
+
+#Academic Quality and Leadership
+
+• Quality Assurance and Academic Auditing
+• National Exit Examination Task Force Team Leader
+• Final Year Industrial Project Advisor
+• Course Module Development
+
+#Developed Course Modules
+
+• Design and Analysis of Algorithms
+• Fundamentals of Software Engineering
+• Object-Oriented Software Engineering
 
 ## 🛠️ Technology Stack
 
